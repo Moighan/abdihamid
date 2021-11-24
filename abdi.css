@@ -1,0 +1,48 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    background: #fafafa;
+    line-height: 1.5;
+    color: #666;
+    font-family: montserrat,sans-serif!important;
+    -webkit-font-family: 'Montserrat',sans-serif!important;
+    font-weight: 400;
+}
+body {
+    font-family: montserrat,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #f68121;
+    color: #fff;
+    text-shadow: none;
+}
